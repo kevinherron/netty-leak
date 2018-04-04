@@ -3,7 +3,7 @@ You can make changes and then build a new module to test by running `mvn clean p
 
 # Running the module
 
-Download the Ignition zip distribution for your platform from here: https://inductiveautomation.com/downloads/beta
+Download the Ignition zip distribution for your platform from here: https://inductiveautomation.com/downloads/ignition
 
 Unzip it somewhere, open a terminal, and cd into that directory.
 
